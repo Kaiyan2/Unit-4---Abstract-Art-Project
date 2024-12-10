@@ -21,12 +21,10 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 
 Example:
 
-Dataset: https://www.kaggle.com/datasets/davidrgp/pokedex
+Dataset: https://www.kaggle.com/datasets/marshuu/dog-breeds
 
-- **pokemonName** (String) - name of pokemon
-- **pokedexNumber** (int) - pokedex number of pokemon
-- **pokemonType1** (String) - primary type of pokemon
-- **pokemonType2** (String) - secondary type of pokemon
+- **dogNames** (String) - name of dog breed
+- **lifeExpectancy** (int) - life expectancy of dog breeds
 
 ## UML Diagram
 
@@ -49,3 +47,5 @@ Record a short video of your abstract art animation to display here on your READ
 ## Description
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+My project creates a dog name array and the corresponding longevity array for the dog name array and makes a scene with the given arrays. To choose a dog to display it randomly chooses from the list and selects an index to use for the rest of the program. Depending on the longevity/lfe span of your dog, it prints out a different emotion/face to tell whether your dog's life span is good, bad, or somewhere inbetween.
