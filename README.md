@@ -24,7 +24,7 @@ Example:
 Dataset: https://www.kaggle.com/datasets/marshuu/dog-breeds
 
 - **dogNames** (String) - name of dog breed
-- **lifeExpectancy** (int) - life expectancy of dog breeds
+- **lifeExpectancy** (String) - life expectancy of dog breeds
 
 ## UML Diagram
 
